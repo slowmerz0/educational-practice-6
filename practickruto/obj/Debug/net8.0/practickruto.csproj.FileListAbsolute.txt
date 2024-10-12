@@ -1,0 +1,14 @@
+C:\danilpractika\practickruto\practickruto\bin\Debug\net8.0\practickruto.exe
+C:\danilpractika\practickruto\practickruto\bin\Debug\net8.0\practickruto.deps.json
+C:\danilpractika\practickruto\practickruto\bin\Debug\net8.0\practickruto.runtimeconfig.json
+C:\danilpractika\practickruto\practickruto\bin\Debug\net8.0\practickruto.dll
+C:\danilpractika\practickruto\practickruto\bin\Debug\net8.0\practickruto.pdb
+C:\danilpractika\practickruto\practickruto\obj\Debug\net8.0\practickruto.GeneratedMSBuildEditorConfig.editorconfig
+C:\danilpractika\practickruto\practickruto\obj\Debug\net8.0\practickruto.AssemblyInfoInputs.cache
+C:\danilpractika\practickruto\practickruto\obj\Debug\net8.0\practickruto.AssemblyInfo.cs
+C:\danilpractika\practickruto\practickruto\obj\Debug\net8.0\practickruto.csproj.CoreCompileInputs.cache
+C:\danilpractika\practickruto\practickruto\obj\Debug\net8.0\practickruto.dll
+C:\danilpractika\practickruto\practickruto\obj\Debug\net8.0\refint\practickruto.dll
+C:\danilpractika\practickruto\practickruto\obj\Debug\net8.0\practickruto.pdb
+C:\danilpractika\practickruto\practickruto\obj\Debug\net8.0\practickruto.genruntimeconfig.cache
+C:\danilpractika\practickruto\practickruto\obj\Debug\net8.0\ref\practickruto.dll
